@@ -156,8 +156,8 @@ jupyter notebook adult_income_ml.ipynb
 
 **Omar** — Computer Science Student  
 Modern Academy for Engineering & Technology, Egypt  
-📧 Connect on [LinkedIn](https://linkedin.com/in/YOUR_PROFILE)  
-🐙 [GitHub](https://github.com/YOUR_USERNAME)
+📧 Connect on [LinkedIn](https://www.linkedin.com/in/omar-elsalhy-43786b31b/)  
+🐙 [GitHub](https://github.com/OmarElsalhy)
 
 ---
 
